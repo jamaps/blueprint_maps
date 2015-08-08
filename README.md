@@ -1,4 +1,4 @@
-### BLUEPRINT
+### BLUEPRINT MAPS
 
 An alternate cartography for google maps based on architectural blueprints.
 
