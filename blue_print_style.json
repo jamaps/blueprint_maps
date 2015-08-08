@@ -1,0 +1,126 @@
+[
+  {
+    "featureType": "road.arterial",
+    "stylers": [
+      { "saturation": 100 },
+      { "hue": "#0000ff" }
+    ]
+  },
+  {
+    "featureType": "road.local",
+    "stylers": [
+      { "saturation": 100 },
+      { "hue": "#0022ff" },
+      { "lightness": 17 },
+      { "gamma": 1 },
+      { "visibility": "on" }
+    ]
+  },
+  {
+    "featureType": "road.highway",
+    "stylers": [
+      { "hue": "#0008ff" },
+      { "visibility": "on" },
+      { "saturation": 100 },
+      { "gamma": 4.79 },
+      { "lightness": 38 }
+    ]
+  },
+  {
+    "featureType": "water",
+    "stylers": [
+      { "gamma": 1.28 },
+      { "invert_lightness": true },
+      { "lightness": 25 },
+      { "hue": "#0022ff" },
+      { "saturation": -26 }
+    ]
+  },
+  {
+    "featureType": "landscape",
+    "stylers": [
+      { "visibility": "on" },
+      { "hue": "#0022ff" },
+      { "saturation": 41 },
+      { "lightness": -38 }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "stylers": [
+      { "saturation": 80 },
+      { "hue": "#0022ff" },
+      { "lightness": -4 },
+      { "visibility": "on" },
+      { "weight": 4.1 }
+    ]
+  },
+  {
+    "featureType": "administrative",
+    "stylers": [
+      { "visibility": "on" },
+      { "weight": 1.1 },
+      { "invert_lightness": true },
+      { "hue": "#3300ff" },
+      { "lightness": 79 }
+    ]
+  },
+  {
+    "featureType": "administrative",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      { "hue": "#0000ff" },
+      { "invert_lightness": true },
+      { "saturation": 100 },
+      { "lightness": 4 },
+      { "gamma": 1.79 },
+      { "weight": 3.2 }
+    ]
+  },
+  {
+    "featureType": "transit",
+    "stylers": [
+      { "lightness": 0 },
+      { "hue": "#1900ff" },
+      { "saturation": 50 }
+    ]
+  },
+  {
+    "featureType": "transit",
+    "elementType": "labels",
+    "stylers": [
+      { "hue": "#0008ff" },
+      { "saturation": 100 },
+      { "gamma": 2 }
+    ]
+  },
+  {
+    "featureType": "water",
+    "elementType": "labels",
+    "stylers": [
+      { "saturation": 100 },
+      { "lightness": 65 },
+      { "weight": 1.8 },
+      { "hue": "#0022ff" }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels",
+    "stylers": [
+      { "saturation": 100 },
+      { "hue": "#0000ff" },
+      { "lightness": 45 },
+      { "gamma": 0.93 }
+    ]
+  },
+  {
+    "featureType": "road",
+    "elementType": "labels.icon",
+    "stylers": [
+      { "gamma": 1.91 },
+      { "saturation": 53 },
+      { "hue": "#0800ff" },
+      { "visibility": "on" },
+      { "lightness": 17 }
+    ]
