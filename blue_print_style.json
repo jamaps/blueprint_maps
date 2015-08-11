@@ -1,5 +1,10 @@
 [
   {
+    "stylers": [
+      { "hue": "#006eff" }
+    ]
+  },
+  {
     "featureType": "road.arterial",
     "stylers": [
       { "saturation": 100 },
