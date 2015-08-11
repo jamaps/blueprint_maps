@@ -6,7 +6,7 @@ An alternate cartography for google maps based on architectural blueprints.
 
 ------------
 
-This was built using documentation from [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/3.exp/reference)
+This was built for fun using documentation from [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/3.exp/reference)
 
 The cartography is stored in blue_print_style.json
 
